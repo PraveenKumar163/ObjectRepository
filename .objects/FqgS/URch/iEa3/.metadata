@@ -1,0 +1,15 @@
+﻿{
+  "Id": "iEa30X7Ui062gD7xDMZTyw",
+  "Reference": "uxulh81LX0-0Rl6mcdjkNw/iEa30X7Ui062gD7xDMZTyw",
+  "ParentRef": "uxulh81LX0-0Rl6mcdjkNw/URchfv1ZjUmM3oxvGIelvQ",
+  "Name": "CalculatorHome",
+  "Type": "Screen",
+  "Created": "2023-07-31T05:31:01.9564506Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-31T05:36:50.6515843Z",
+  "UpdatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

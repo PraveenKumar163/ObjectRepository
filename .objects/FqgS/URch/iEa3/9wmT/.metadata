@@ -1,0 +1,13 @@
+﻿{
+  "Id": "9wmT11UxmUibEHLUryjAzg",
+  "Reference": "uxulh81LX0-0Rl6mcdjkNw/9wmT11UxmUibEHLUryjAzg",
+  "ParentRef": "uxulh81LX0-0Rl6mcdjkNw/iEa30X7Ui062gD7xDMZTyw",
+  "Name": "Equlas(Total)",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-07-31T05:36:50.9273832Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-31T05:36:50.9273832Z"
+}

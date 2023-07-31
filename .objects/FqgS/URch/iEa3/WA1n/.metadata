@@ -1,0 +1,13 @@
+﻿{
+  "Id": "WA1nk-iZYkulI9pg-as5Ww",
+  "Reference": "uxulh81LX0-0Rl6mcdjkNw/WA1nk-iZYkulI9pg-as5Ww",
+  "ParentRef": "uxulh81LX0-0Rl6mcdjkNw/iEa30X7Ui062gD7xDMZTyw",
+  "Name": "Substract",
+  "Type": "Element",
+  "TaxonomyType": "Button",
+  "Created": "2023-07-31T05:36:50.8422431Z",
+  "CreatedBy": [
+    "UiPath.Platform, Version=23.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ],
+  "Updated": "2023-07-31T05:36:50.8422431Z"
+}
